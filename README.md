@@ -1,9 +1,5 @@
-[![MasterHead](https://img.freepik.com/free-photo/3d-render-network-communications-background-with-plexus-design_1048-13022.jpg?w=996&t=st=1708793307~exp=1708793907~hmac=1cb89a5d16a0220968211247ffc566907fcb8ebffabeba2e0f1b95691fd5bdb1)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aryan Rakholiya</h1>
 <h3 align="center">A passionate Data science and analytic student from India</h3>
-
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/people-analyzing-financial-charts-virtual-interface_1262-19289.jpg?w=996&t=st=1708793605~exp=1708794205~hmac=2bf4719b8087b20b5cf7d4a3a84d542d5f3f20b810973c21264cf4c352b22dfb">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanrakholiya2004&label=Profile%20views&color=0e75b6&style=flat" alt="aryanrakholiya2004" /> </p>
 
 - 🌱 I’m currently learning **Django**
