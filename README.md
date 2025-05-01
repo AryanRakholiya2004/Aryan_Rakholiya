@@ -1,18 +1,49 @@
-<h1 align="center">Hi 👋, I'm Aryan Rakholiya</h1>
-<h3 align="center">A passionate Data science and analytic student from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanrakholiya2004&label=Profile%20views&color=0e75b6&style=flat" alt="aryanrakholiya2004" /> </p>
+<h3 align="center">Hi 👋! My name is Aryan Rakholiya and I'm a enthusiast Data scientist, from Gujarat, India</h3>
 
-- 📫 How to reach me **aryanrakholiya@proton.me**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<br clear="both">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="https://raw.githubusercontent.com/AryanRakholiya2004/AryanRakholiya2004/output/snake.svg" alt="Snake animation" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanrakholiya2004&show_icons=true&locale=en&layout=compact" alt="aryanrakholiya2004" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanrakholiya2004&show_icons=true&locale=en" alt="aryanrakholiya2004" /></p>
+<br clear="both">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanrakholiya2004&" alt="aryanrakholiya2004" /></p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="python logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="46" alt="numpy logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="46" alt="pandas logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="46" alt="django logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="46" alt="jupyter logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="46" alt="vscode logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="46" alt="html5 logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="46" alt="css3 logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="46" alt="tensorflow logo"  />
+</div>
+
+###
+
+<img align="left" height="160" src="https://i.pinimg.com/originals/08/fb/61/08fb615b1a389de5bc0410136d75f50d.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanRakholiya2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanRakholiya2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=shades-of-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+</div>
+
+###
