@@ -4,7 +4,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AryanRakholiya2004/AryanRakholiya2004/output/dist/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AryanRakholiya2004/AryanRakholiya2004/output/dist/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
