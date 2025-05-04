@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AryanRakholiya2004/AryanRakholiya2004/output/dist/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AryanRakholiya2004/AryanRakholiya2004/output/github-snake.svg" alt="Snake animation" />
 </div>
 
 ###
