@@ -1,3 +1,5 @@
+![readme_cover](https://github.com/user-attachments/assets/775c3f92-a4a5-434d-b35c-3a61da4ceff5)
+
 <h2 align="center">Hi 👋! My name is Aryan Rakholiya and I'm a enthusiast Data scientist, from Gujarat, India</h2>
 
 ###
