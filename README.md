@@ -1,4 +1,5 @@
-![readme_cover](https://github.com/user-attachments/assets/775c3f92-a4a5-434d-b35c-3a61da4ceff5)
+![readme_profile_cover_2](https://github.com/user-attachments/assets/5fc410ba-dabc-44bf-b094-d869dc8d4773)
+
 
 <h2 align="center">Hi 👋! My name is Aryan Rakholiya and I'm a enthusiast Data scientist, from Gujarat, India</h2>
 
@@ -6,10 +7,10 @@
 
 <br clear="both">
 
-<h3 align="center">Tech stack</h3>
+<h3 align="center">Tech stack </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,ai,bootstrap,c,cpp,css,django,figma,git,github,html,jquery,mysql,opencv,ps,pkl,postman,py,pytorch,sklearn,tailwind,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=anaconda,ai,c,cpp,css,django,git,github,mysql,opencv,ps,pkl,py,pytorch,sklearn,tensorflow" />
   </a>
 </p>
 
