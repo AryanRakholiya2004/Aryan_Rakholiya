@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-## Tech stake
+<h3 align="center">Tech stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,ai,bootstrap,c,cpp,css,django,figma,git,github,html,jquery,mysql,opencv,ps,pkl,postman,py,pytorch,sklearn,tailwind,tensorflow" />
