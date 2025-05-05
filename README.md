@@ -10,6 +10,13 @@
 
 ###
 
+<div align="center">
+  <img src"https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="36"/>
+  <img src"https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="36"/>
+</div>
+
+###
+
 <br clear="both">
 
 <div align="center">
